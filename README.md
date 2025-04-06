@@ -1,7 +1,9 @@
 # Hi there 👋
 
 🧒🏻 I'm Axel Kurniawan, pursuing as a computer science student in BINUS University and working as a laboratory assistant in Software Laboratory Center. 
+
 🌟 I have experience developing applications using various technology stacks, adapting to different frameworks, languages, and architectures to build efficient and scalable solutions.
+
 📔 I am currently learning artificial intelligence and actively keeping up with AI trends to stay updated with the latest advancements.
 
 ## Social Media 🌐
