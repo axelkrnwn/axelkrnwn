@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go)](https://skillicons.dev)
 
 ## Tools & Framework ⚙️
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform)](https://skillicons.dev)
 <!--
 **axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
