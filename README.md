@@ -9,11 +9,11 @@
 ## Social Media 🌐
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-kurniawan-970848226/)
 
-## Programming Language 🖥️
-[![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go)](https://skillicons.dev)
+## Programming Languages 🖥️
+[![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go,ts)](https://skillicons.dev)
 
 ## Tools & Framework ⚙️
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,unity,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git)](https://skillicons.dev)
 <!--
 **axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
