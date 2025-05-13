@@ -8,14 +8,13 @@
 
 ![Axelkrnwn's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelkrnwn&show_icons=true&theme=radical)
 
-## Social Media 🌐
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-kurniawan-970848226/)
+## Tools & Framework ⚙️
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,unity,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git)](https://skillicons.dev)
 
 ## Programming Languages 🖥️
 [![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go,ts)](https://skillicons.dev)
 
-## Tools & Framework ⚙️
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,unity,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git)](https://skillicons.dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axelkrnwn%20&theme=merko)](https://git.io/streak-stats)
 <!--
 **axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
