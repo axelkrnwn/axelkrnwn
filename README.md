@@ -14,7 +14,7 @@
 ## Programming Languages 🖥️
 [![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go,ts)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axelkrnwn%20&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axelkrnwn%20&theme=radical)](https://git.io/streak-stats)
 <!--
 **axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
