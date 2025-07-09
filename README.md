@@ -9,10 +9,10 @@
 ![Axelkrnwn's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelkrnwn&show_icons=true&theme=radical)
 
 ## Tools & Framework ⚙️
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git,rabbitmq,redis,postman,threejs,opencv,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git,rabbitmq,redis,postman,threejs,opencv,vercel,supabase)](https://skillicons.dev)
 
 ## Programming Languages 🖥️
-[![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,rust,go,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,go,ts)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axelkrnwn%20&theme=radical)](https://git.io/streak-stats)
 <!--
