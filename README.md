@@ -15,6 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,go,ts)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=axelkrnwn%20&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelkrnwn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
