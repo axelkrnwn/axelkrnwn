@@ -9,7 +9,7 @@
 ![Axelkrnwn's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelkrnwn&show_icons=true&theme=radical)
 
 ## Tools & Framework ⚙️
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git,rabbitmq,redis,postman,threejs,opencv,vercel,supabase,nginx,arduino,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,vite,tailwind,bootstrap,docker,express,mongodb,firebase,mysql,postgresql,flask,electron,tauri,sklearn,tensorflow,scss,svelte,nest,azure,terraform,git,rabbitmq,redis,postman,threejs,opencv,vercel,supabase,nginx,arduino,jenkins,githubactions)](https://skillicons.dev)
 
 ## Programming Languages 🖥️
 [![My Skills](https://skillicons.dev/icons?i=js,c,cs,cpp,java,python,php,kotlin,go,ts)](https://skillicons.dev)
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelkrnwn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**axelkrnwn/axelkrnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
 Here are some ideas to get you started:
 
